@@ -149,3 +149,28 @@ li{
 .topcategorywrapper h2{
     margin-bottom: 2rem;
 }
+.Bfeaturewrapper{
+    background: #f7f9fa;
+    height: 400px;
+}
+.featurewrapper{
+    margin: 2rem;
+    padding-top:4rem ;
+}
+.featurewrapper h2{
+    margin-bottom: 1rem;
+}
+.subwrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.design h3, .business h3 , .development h3 , .it h3 {
+    margin-bottom: 1rem;
+}
+.Python,.WebDev, .machine,.finance,.sql,.pmp,.aws,.ethical,.cyber{
+    margin-bottom: 1rem;
+}
+.Explore{
+    border: 1px solid black;
+   
+}
