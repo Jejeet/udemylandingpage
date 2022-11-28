@@ -125,3 +125,27 @@ li{
 .coursesicons{
     margin: 2rem;
 }
+.studentviewicons{
+    display: flex;
+    gap: 2rem;
+    margin-top: 1.5rem;
+}
+.studentviewwrap{
+    margin: 2rem;
+}
+.studentviewicons img{
+    height: 200px;
+    
+}
+.categoryicon{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 1rem;
+}
+.topcategorywrapper{
+    margin: 3rem;
+    padding-left: 2rem;
+}
+.topcategorywrapper h2{
+    margin-bottom: 2rem;
+}
