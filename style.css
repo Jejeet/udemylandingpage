@@ -72,3 +72,56 @@ heroimg {
   
 
 }
+.billboard{
+    margin-bottom: 2rem;
+}
+.coursesicons{
+    display: flex;
+    gap: 2rem;
+}
+.coursesicons img{
+    height: 200px;
+    width: 200px;
+    box-shadow: 0 2px 4px ;
+}
+.courses{
+    margin: 1.5rem;
+}
+.courses h1{
+    margin-bottom: 1rem;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    width: 45rem;
+}
+li{
+    list-style-type: none;
+    
+}
+.coursesContentwapper{
+    margin-top: 2rem;
+    border: 1px solid black;
+}
+.coursesContentwapper h3{
+    margin-bottom: 1.5rem;
+}
+.exp
+{
+    border: 1px solid black;
+  
+}
+.coursecontent{
+    margin: 2rem;
+}
+.coursecontent a{
+    color: #1c1d1f;
+    background-color: transparent;
+    border: 1px solid #1c1d1f;
+}
+.coursecontent p{
+    margin-bottom: 1rem;
+}
+.coursesicons{
+    margin: 2rem;
+}
