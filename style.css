@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 2rem;
+}
+
+header a p {
+  font-size: 16px;
+  color: black;
+}
+
+header a p:hover {
+  font-size: 15px;
+  color: purple;
+  transition: 0.5s ease-in;
+}
+.input-box {
+  border: 1px solid black;
+  border-radius: 2rem;
+  height: 3rem;
+  width: 30rem;
+  padding: 1rem;
+}
+input {
+  border: none;
+  /* text-align: center; */
+  outline: none;
+  margin-top: -1rem;
+}
+.login {
+  border: 1px solid black;
+  height: 2rem;
+}
+.signup {
+  border: 1px solid black;
+  height: 2rem;
+  text-align: center;
+}
+button {
+  border: none;
+  outline: none;
+}
+.billboarddata {
+  position: relative;
+  margin: 0 auto;
+  width: 100%;
+  display: block;
+}
+heroimg {
+  width: 100vw;
+  height: auto;
+  object-fit: contain;
+  object-position: initial;
+  
+}
+.billboardcontent {
+  position: absolute;
+  box-shadow: 0 2px 4px ;
+  padding:2.4rem ;
+  margin-top: -24rem;
+  margin-left: 3rem;
+  background-color:white ;
+  width: 25rem;
+  
+
+}
